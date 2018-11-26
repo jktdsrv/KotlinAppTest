@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KotlinApplication</string>
+    <string name="hint_username">Usuario</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

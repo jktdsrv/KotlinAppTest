@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinApplication</string>
+    <string name="hint_username">User</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="hint_password">Contraseña</string>
+</resources>
